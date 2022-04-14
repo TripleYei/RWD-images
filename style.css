@@ -1,0 +1,23 @@
+ body{
+    margin: 0;
+    background-color: black;
+    
+  }
+  img{
+    max-width: 100%;
+     
+  
+    
+  }
+  img:hover{
+    border-radius: 200%;
+
+    
+  }
+  
+  header,footer{
+    font-size: 5vh;
+    background-color: black;
+    color:white;
+    text-align: center;
+  }
